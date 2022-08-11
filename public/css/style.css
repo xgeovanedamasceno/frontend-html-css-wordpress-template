@@ -19,7 +19,7 @@ nav {
     padding: 40px;
 }
 
-header h1, h2, p, a {
+header h1, header h2, header p, header a {
     color: white;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
